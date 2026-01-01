@@ -126,6 +126,10 @@ Login with email and password.
 - CORS is enabled for `http://localhost:4200`
 
 ## Running Both Servers
+<img width="1918" height="967" alt="Screenshot 2026-01-01 181021" src="https://github.com/user-attachments/assets/9b75dfdc-15b3-4537-988d-727463910240" />
+<img width="1917" height="968" alt="Screenshot 2026-01-01 181311" src="https://github.com/user-attachments/assets/8a681900-0ce6-4665-a7a5-622c9cc0d6c0" />
+
+
 
 1. Start MongoDB
 2. Start Spring Boot backend (port 8080)
