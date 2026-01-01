@@ -1,0 +1,8 @@
+com\simpleauth\config\CorsConfig.class
+com\simpleauth\dto\LoginRequest.class
+com\simpleauth\repository\UserRepository.class
+com\simpleauth\dto\SignupRequest.class
+com\simpleauth\dto\AuthResponse.class
+com\simpleauth\model\User.class
+com\simpleauth\controller\AuthController.class
+com\simpleauth\SimpleAuthApplication.class
